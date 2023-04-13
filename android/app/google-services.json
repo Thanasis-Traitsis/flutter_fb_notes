@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1009512228925",
+    "project_id": "flutterfirenotes-111a4",
+    "storage_bucket": "flutterfirenotes-111a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009512228925:android:d320b8b19102e825fd6254",
+        "android_client_info": {
+          "package_name": "com.example.test_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009512228925-7jeugo79cu89frr6a1t8tttm8rli899d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4EwocLLtEhOIT2MeRUbo8HCiH0Gpvkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009512228925-7jeugo79cu89frr6a1t8tttm8rli899d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009512228925-t8to9pnd1lj8u2mcqjipr7jal6iir6eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thanasistraitsis.fire.notes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009512228925:android:e1ac1790384b0849fd6254",
+        "android_client_info": {
+          "package_name": "com.thanasistraitsis.fire.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009512228925-7jeugo79cu89frr6a1t8tttm8rli899d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4EwocLLtEhOIT2MeRUbo8HCiH0Gpvkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009512228925-7jeugo79cu89frr6a1t8tttm8rli899d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009512228925-t8to9pnd1lj8u2mcqjipr7jal6iir6eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thanasistraitsis.fire.notes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
